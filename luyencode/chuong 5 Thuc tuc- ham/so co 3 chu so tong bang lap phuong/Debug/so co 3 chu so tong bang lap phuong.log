@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\DELL M7510\source\repos\chuong 5\so co 3 chu so tong bang lap phuong\Source.cpp(21,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL M7510\source\repos\chuong 5\so co 3 chu so tong bang lap phuong\Source.cpp(27,35): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  so co 3 chu so tong bang lap phuong.vcxproj -> C:\Users\DELL M7510\source\repos\chuong 5\Debug\so co 3 chu so tong bang lap phuong chinh so do.exe

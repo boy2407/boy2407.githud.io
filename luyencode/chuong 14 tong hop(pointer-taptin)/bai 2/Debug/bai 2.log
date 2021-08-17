@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\C\luyencode\chuong 14\bai 2\Source.cpp(87,16): warning C4101: 'sv2': unreferenced local variable
+D:\C\luyencode\chuong 14\bai 2\Source.cpp(87,21): warning C4101: 'sv3': unreferenced local variable
+D:\C\luyencode\chuong 14\bai 2\Source.cpp(87,11): warning C4101: 'sv1': unreferenced local variable
+  bai 2.vcxproj -> D:\C\luyencode\chuong 14\Debug\bai 2.exe

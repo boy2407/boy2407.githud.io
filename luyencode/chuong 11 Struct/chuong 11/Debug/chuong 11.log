@@ -1,0 +1,8 @@
+﻿  DanhSachMon.cpp
+  LopHoc.cpp
+D:\C\luyencode\chuong 11\chuong 11\LopHoc.cpp(202,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MonHoc.cpp
+  SinhVien.cpp
+  Source.cpp
+D:\C\luyencode\chuong 11\chuong 11\Source.cpp(52,2): error C3861: 'REALLOC': identifier not found
+  Generating Code...

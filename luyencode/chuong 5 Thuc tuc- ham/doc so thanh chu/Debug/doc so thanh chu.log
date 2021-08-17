@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(140,24): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(142,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(145,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(145,9): message : consider using '%lld' in the format string
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(145,9): message : consider using '%I64d' in the format string
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(146,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(146,9): message : consider using '%lld' in the format string
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(146,9): message : consider using '%I64d' in the format string
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(168,16): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(170,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(174,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(174,10): message : consider using '%lld' in the format string
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(174,10): message : consider using '%I64d' in the format string
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(175,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(175,10): message : consider using '%lld' in the format string
+C:\Users\DELL M7510\source\repos\chuong 5\doc so thanh chu\Source.cpp(175,10): message : consider using '%I64d' in the format string
+  doc so thanh chu.vcxproj -> C:\Users\DELL M7510\source\repos\chuong 5\Debug\doc so thanh chu.exe

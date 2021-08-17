@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\C\luyencode\New folder\Thay NTTMK\Thay NTTMK\Source.cpp(35,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\C\luyencode\New folder\Thay NTTMK\Thay NTTMK\Source.cpp(44,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\C\luyencode\New folder\Thay NTTMK\Thay NTTMK\Source.cpp(54,6): error C2296: '%': illegal, left operand has type 'double'
+D:\C\luyencode\New folder\Thay NTTMK\Thay NTTMK\Source.cpp(56,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\C\luyencode\New folder\Thay NTTMK\Thay NTTMK\Source.cpp(103,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\C\luyencode\New folder\Thay NTTMK\Thay NTTMK\Source.cpp(206,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\C\luyencode\New folder\Thay NTTMK\Thay NTTMK\Source.cpp(207,6): error C2296: '%': illegal, left operand has type 'double'
+D:\C\luyencode\New folder\Thay NTTMK\Thay NTTMK\Source.cpp(209,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\C\luyencode\New folder\Thay NTTMK\Thay NTTMK\Source.cpp(235,5): warning C4552: '/': result of expression not used

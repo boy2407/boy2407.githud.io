@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\C\luyencode\cb\tinh ngay\Source.cpp(51,18): warning C4553: '==': result of expression not used; did you intend '='?
+D:\C\luyencode\cb\tinh ngay\Source.cpp(55,18): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  tinh ngay.vcxproj -> D:\C\luyencode\cb\Release\tinh ngay.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\C\luyencode\chuong 15 cuoc dua thu\chuong 15 cuoc dua thu\Source.cpp(72): warning C4715: 'TimVanTocThucSu': not all control paths return a value
+D:\C\luyencode\chuong 15 cuoc dua thu\chuong 15 cuoc dua thu\Source.cpp(88): warning C4715: 'TimThoiGianDiHetQuangDuong': not all control paths return a value
+D:\C\luyencode\chuong 15 cuoc dua thu\chuong 15 cuoc dua thu\Source.cpp(104): warning C4715: 'TimThoiGianVeDich': not all control paths return a value
+  chuong 15 cuoc dua thu.vcxproj -> D:\C\luyencode\chuong 15 cuoc dua thu\Debug\chuong 15 cuoc dua thu.exe

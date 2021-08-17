@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\C\luyencode\cb\rockpaperscissors\Source.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  rockpaperscissors.vcxproj -> D:\C\luyencode\cb\Debug\rockpaperscissors.exe

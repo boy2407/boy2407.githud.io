@@ -1,0 +1,5 @@
+				Secletion Sort
+Tap Du Lieu	Lan chay 1	Lan Chay 2	Lan chay 3	Trung Binh
+10.000		0.130s		0.127s		0.126s		0.042s
+10.000		0.144s		0.131s		0.134s		0.136s
+100.000	

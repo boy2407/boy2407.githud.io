@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\C\luyencode\chương4\Project1\2cb\Source.cpp(40,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\C\luyencode\chương4\Project1\2cb\Source.cpp(46,42): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\C\luyencode\chương4\Project1\2cb\Source.cpp(82,7): error C2086: 'int check': redefinition
+D:\C\luyencode\chương4\Project1\2cb\Source.cpp(60): message : see declaration of 'check'

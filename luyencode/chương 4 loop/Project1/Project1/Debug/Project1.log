@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\C\luyencode\chương4\Project1\Project1\Source.cpp(15,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\C\luyencode\chương4\Project1\Project1\Source.cpp(20,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> D:\C\luyencode\chương4\Project1\Debug\daoso.exe

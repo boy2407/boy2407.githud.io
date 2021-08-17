@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\C\luyencode\chuong 8\dich trai cot\Source.cpp(111,15): warning C4101: 'cot2': unreferenced local variable
+D:\C\luyencode\chuong 8\dich trai cot\Source.cpp(111,9): warning C4101: 'cot1': unreferenced local variable
+  dich trai cot.vcxproj -> D:\C\luyencode\chuong 8\Debug\dich trai cot.exe

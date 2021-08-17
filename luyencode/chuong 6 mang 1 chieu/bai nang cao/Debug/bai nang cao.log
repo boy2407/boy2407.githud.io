@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (bai nang cao.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\DELL M7510\source\repos\chuong 6\bai nang cao\Source.cpp(67,11): warning C4477: 'printf' : format string '%4d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\DELL M7510\source\repos\chuong 6\bai nang cao\Source.cpp(81,11): warning C4477: 'printf' : format string '%4d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\DELL M7510\source\repos\chuong 6\bai nang cao\Source.cpp(91,11): warning C4477: 'printf' : format string '%4d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\DELL M7510\source\repos\chuong 6\bai nang cao\Source.cpp(98,10): warning C4477: 'printf' : format string '%4d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\DELL M7510\source\repos\chuong 6\bai nang cao\Source.cpp(198,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  bai nang cao.vcxproj -> C:\Users\DELL M7510\source\repos\chuong 6\Debug\Tim Kiem.exe

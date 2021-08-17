@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\C\luyencode\chuong 7\chuong 7\viet lai ham\Source.cpp(188,43): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\C\luyencode\chuong 7\chuong 7\viet lai ham\Source.cpp(222,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C\luyencode\chuong 7\chuong 7\viet lai ham\Source.cpp(223,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C\luyencode\chuong 7\chuong 7\viet lai ham\Source.cpp(225,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\C\luyencode\chuong 7\chuong 7\viet lai ham\Source.cpp(104): warning C4715: 'Strcmp': not all control paths return a value
+  viet lai ham.vcxproj -> D:\C\luyencode\chuong 7\chuong 7\Debug\viet lai ham.exe

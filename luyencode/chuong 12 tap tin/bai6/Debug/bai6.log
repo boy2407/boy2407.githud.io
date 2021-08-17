@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\C\luyencode\chuong 12\bai6\Source.cpp(50,1): error C2280: 'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(const std::basic_ifstream<char,std::char_traits<char>> &)': attempting to reference a deleted function
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\fstream(883): message : see declaration of 'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\fstream(883,5): message : 'std::basic_ifstream<char,std::char_traits<char>>::basic_ifstream(const std::basic_ifstream<char,std::char_traits<char>> &)': function was explicitly deleted

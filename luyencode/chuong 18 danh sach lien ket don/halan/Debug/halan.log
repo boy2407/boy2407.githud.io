@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\C\luyencode\chuong 18 danh sach lien ket don\halan\Source.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+D:\C\luyencode\chuong 18 danh sach lien ket don\halan\Source.cpp(114,26): warning C4018: '<': signed/unsigned mismatch
+D:\C\luyencode\chuong 18 danh sach lien ket don\halan\Source.cpp(123,8): warning C4552: '-': result of expression not used
+  halan.vcxproj -> D:\C\luyencode\chuong 18 danh sach lien ket don\Debug\halan.exe
